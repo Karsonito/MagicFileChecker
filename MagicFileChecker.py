@@ -2,9 +2,7 @@
 import magic
 import mimetypes
 import os
-import sys
 import argparse
-import pprint
 
 mimetypes.init()
 
